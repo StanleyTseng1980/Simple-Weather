@@ -1,3 +1,3 @@
 # Simple-Weather
 
-![](https://miro.medium.com/max/9448/1*lBSHixpRJLoCPkP5e97toA.png)
+![](https://miro.medium.com/max/756/1*eMphHRqfw7l_J6S0nk05og.png)
